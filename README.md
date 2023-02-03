@@ -4,4 +4,9 @@
 
  here is the link of game: **jogosdigfacsenacrecife.itch.io/stronguejo**
  
- 
+ <figure>
+    <img src="print_04_game.jpg"
+         alt="Pong Photo" width="500" height="400">
+        
+</figure>
+    
